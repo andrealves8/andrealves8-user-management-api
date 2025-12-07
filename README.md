@@ -7,8 +7,8 @@ Inclui operações completas de CRUD (Create, Read, Update, Delete), integraçã
 
 ## 🚀 Tecnologias Utilizadas
 
-- Java 17+
-- Spring Boot
+- Java 21+
+- Spring Boot 4
 - Spring Data JPA
 - Hibernate
 - PostgreSQL
