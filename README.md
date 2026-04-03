@@ -34,4 +34,4 @@ Inclui operações completas de CRUD (Create, Read, Update, Delete), integraçã
 ### 1️⃣ Clonar o repositório
 
 ```bash
-git clone https://github.com/andrealves8/andrealves8-user-management-api.git
+git clone https://github.com/andrealves8/user-management-api.git
